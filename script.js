@@ -29,5 +29,4 @@ if (isMobile()) {
   const containerTop = document.getElementsByClassName("container-top")[0];
   containerTop.classList.remove("container-top");
   containerTop.classList.add("container-top-mobile");
-  console.log(h1, h2);
 }
